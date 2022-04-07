@@ -1,0 +1,39 @@
+id: PC81DFCF1
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG2171
+  instance_id: http://purl.bdrc.io/resource/IE1KG2171
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསང་སྙིང་སྤྱི་དོན་རིན་ཆེན་མཛོད་ཀྱི་ལྡེ་མིག་གི་ཟིན་བྲིས་སོགས།
+  alt_title:
+    en-x-mixed:
+    - Dpal Gsaṅ baʼi sñiṅ po daṅ ʼbrel baʼi chos tshan ʼgaʼ daṅ Rin chen mdzod kyi
+      lde mig gi zin bris skor bźugs so /Slob-dpon Bī-ma-[la]-mi-tra sogs kyis mdzad.
+  author: http://purl.bdrc.io/resource/P8539
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9b1236e78526425facd09be5b7d16a8b:
+      title: པོད ༢་གསང་སྙིང་སྤྱི་དོན་རིན་ཆེན་མཛོད་ཀྱི་ལྡེ་མིག་གི་ཟིན་བྲིས་སོགས།
+      volume_number: 2
+      base_file: UT1KG2171_I1KG2192_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0DB93E72A8A8F809
+      image_group: I1KG2192
+      quality: Low
+    4c76fcbb5bf14503b8b3df84df895989:
+      title: པོད ༡་གསང་སྙིང་སྤྱི་དོན་རིན་ཆེན་མཛོད་ཀྱི་ལྡེ་མིག་གི་ཟིན་བྲིས་སོགས།
+      volume_number: 1
+      base_file: UT1KG2171_I1KG2191_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2F4E352A2949B5AE
+      image_group: I1KG2191
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG2171
+  - http://purl.bdrc.io/resource/MW1KG2171
+  ocr_software: Namsel
+created_at: '2021-12-22T10:37:16.869256'
+last_modified_at: '2021-12-22T10:37:16.869263'
